@@ -1,0 +1,5 @@
+﻿  main.cpp
+  ComboBox.cpp
+\\mac\home\desktop\final-project-master\final project\combobox\combobox.cpp(80): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  ComboBox.vcxproj -> \\Mac\Home\Desktop\Final-Project-master\Final Project\Debug\ComboBox.lib

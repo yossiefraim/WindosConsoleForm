@@ -1,0 +1,6 @@
+﻿  TextBox.cpp
+\\mac\home\desktop\final-project-master\final project\textbox\textbox.cpp(21): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\final-project-master\final project\textbox\textbox.cpp(115): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  TextBox.vcxproj -> \\Mac\Home\Desktop\Final-Project-master\Final Project\Debug\TextBox.lib

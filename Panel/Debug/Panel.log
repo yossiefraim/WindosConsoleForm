@@ -1,0 +1,9 @@
+﻿  Panel.cpp
+\\mac\home\desktop\final-project-master\final project\panel\panel.cpp(9): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\final-project-master\final project\panel\panel.cpp(80): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\final-project-master\final project\panel\panel.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  ListPanel.cpp
+\\mac\home\desktop\final-project-master\final project\panel\listpanel.cpp(25): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\final-project-master\final project\panel\listpanel.cpp(49): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Panel.vcxproj -> \\Mac\Home\Desktop\Final-Project-master\Final Project\Debug\Panel.lib

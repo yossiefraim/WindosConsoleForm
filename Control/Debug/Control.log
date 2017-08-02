@@ -1,0 +1,9 @@
+﻿  Control.cpp
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(66): warning C4309: 'return': truncation of constant value
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(69): warning C4309: 'return': truncation of constant value
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(79): warning C4309: 'return': truncation of constant value
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(82): warning C4309: 'return': truncation of constant value
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(74): warning C4715: 'Control::getBorderTHor': not all control paths return a value
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(87): warning C4715: 'Control::getBorderTVer': not all control paths return a value
+\\mac\home\desktop\final-project-master\final project\control\control.cpp(99): warning C4715: 'Control::getBorderTCor': not all control paths return a value
+  Control.vcxproj -> \\Mac\Home\Desktop\Final-Project-master\Final Project\Debug\Control.lib
